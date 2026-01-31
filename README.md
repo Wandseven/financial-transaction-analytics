@@ -1,4 +1,5 @@
 Financial Data Analytics: Customer Insights & Segmentation (2010 - 2019)
+
 📌 Project Overview
 This project focuses on analyzing a comprehensive financial dataset from Company X, a financial services provider. By leveraging data from transactions, credit cards, and user profiles, the goal is to decode consumer behavior and habits to drive revenue growth and enhance customer experience.
 
